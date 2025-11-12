@@ -1,6 +1,19 @@
-<h1 align="center">Hi , I'm Vanessa Fotso</h1><h3 align="center">A passionate data analyst from Germany</h3>-  I’m currently working on Car Project-  I’m currently learning SQL-  How to reach me vanessa@gmail.com<h3 align="left">Connect with me:</h3><p align="left"></p><h3 align="left">Languages and Tools:</h3><p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+# Vanessa Kouam Fotso — Data & Business Intelligence
 
+**Master in financial engineering   & 1 year Business Intelligence certification** — Passionate about transforming data into actionable business decisions.
+## Compétences
+- **Langages :** Python (pandas, numpy), SQL, Bash
+- **Visualisation :** Power BI, Tableau, matplotlib,looker Studio
+- **Data engineering :** ETL, Airflow (concepts), SQLAlchemy,Aws,DBT, Snowflakes 
+- **IA & Automation :** Prompt engineering, RAG basics, workflows with GPT / ElevenLabs
+- **Outils :** Git, Docker (basics), Jupyter, VSCode,Anaconda
 
-Who can see your messages?
-to:
-Meeting Group Chat
+## Projets sélectionnés
+- **Issue Resolution Efficiency** — Notebook complet (SQL → ETL → viz) : `analysis/results/issue_resolution_efficiency/`  
+- **Data Quality Audits** — Scripts pour validation et scoring (SQL + Python)  
+- **NYC analysis
+
+## Contact
+- Email : vanessakouamt@gmail.com  
+- Location: Aachen, Germany
+- Languages: French · English · German 
